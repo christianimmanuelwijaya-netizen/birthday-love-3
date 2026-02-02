@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Happy Birthday My Love ❤️</title>
+    <style>
+        body {
+            background: linear-gradient(135deg, #ff9a9e, #fad0c4);
+            font-family: 'Segoe UI', sans-serif;
+            text-align: center;
+            color: #fff;
+            padding: 50px;
+        }
+        .card {
+            background: rgba(255,255,255,0.15);
+            border-radius: 20px;
+            padding: 40px;
+            max-width: 600px;
+            margin: auto;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+        }
+        h1 {
+            font-size: 3em;
+            margin-bottom: 10px;
+        }
+        p {
+            font-size: 1.2em;
+            line-height: 1.6;
+        }
+        .heart {
+            font-size: 3em;
+            animation: pulse 1.5s infinite;
+        }
+        @keyframes pulse {
+            0% { transform: scale(1); }
+            50% { transform: scale(1.2); }
+            100% { transform: scale(1); }
+        }
+        footer {
+            margin-top: 30px;
+            font-style: italic;
+        }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <h1>Happy Birthday, My Love 🎉</h1>
+        <p>
+            Today is a very special day, because the most amazing girl in my life was born.
+            Thank you for being my happiness, my comfort, and my greatest blessing.
+        </p>
+        <p>
+            I hope this year brings you endless smiles, beautiful moments, and all the love
+            your heart can hold. I’m so grateful to walk through life with you.
+        </p>
+        <div class="heart">❤️</div>
+        <footer>
+            Forever yours,<br>
+            <strong>[Your Name]</strong>
+        </footer>
+    </div>
+</body>
+</html>
